@@ -17,7 +17,7 @@ void performOperation(T a, T b, T op)
     }
     else if (op == '*')
     {
-        cout << "Multiplication is " << a * b << endl;
+        cout << "Multiplication is: " << a * b << endl;
     }
 }
 
